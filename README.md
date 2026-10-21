@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="因恒科技：应用场景、数据基础设施、技术与工具、研究与洞察" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/InhenTech/showcase/1999d5fff82c821d31acaa5ef7c38164c18742f9/assets/banner.svg" alt="因恒科技：应用场景、数据基础设施、技术与工具、研究与洞察" width="100%"></p>
 
 # 因恒科技 · 展示目录
 
