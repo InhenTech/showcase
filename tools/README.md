@@ -10,6 +10,5 @@
 | --- | --- | --- |
 | [地图与三维浏览 →](spatial-viewing/README.md) | 地图选点、空间查看、图层切换等小工具。 | 待补充 |
 | [内容与路线组织 →](content-routes/README.md) | 地点介绍、故事关联、游览路线等工具。 | 待补充 |
-| [项目协作与事项管理 →](collaboration/README.md) | 任务、责任、进展和处理记录的组织方法。 | 待补充 |
 
 [← 返回展示目录](../README.md)

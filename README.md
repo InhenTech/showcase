@@ -24,7 +24,6 @@
 <ul>
 <li><a href="data/spatial/README.md">建筑与空间资料</a></li>
 <li><a href="data/industry/README.md">产业与市场数据</a></li>
-<li><a href="data/evidence/README.md">项目资料与证据</a></li>
 </ul>
 </td>
 </tr>
@@ -35,7 +34,6 @@
 <ul>
 <li><a href="tools/spatial-viewing/README.md">地图与三维浏览</a></li>
 <li><a href="tools/content-routes/README.md">内容与路线组织</a></li>
-<li><a href="tools/collaboration/README.md">项目协作与事项管理</a></li>
 </ul>
 </td>
 <td width="50%" valign="top">
